@@ -12,7 +12,7 @@ vbeinfo
 ~~~
 
 Miramos las resoluciones soportadas.
-(Por ejemplo en mi caso la buena es: 1400x1050x32)
+(Por ejemplo, en mi caso, la buena es: 1400x1050x32)
 
 ## Instalar paquete de tema
 
