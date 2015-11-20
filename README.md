@@ -45,7 +45,7 @@ Guardamos y ejecutamos el siguiente comando para que los cambios surtan efecto:
 
 Si todo ha ido bien al iniciar debes tener el nuevo tema cargado.
 
-
+![alt_tag](screenshot1.gif?raw_true "Demo")
 
 
 
