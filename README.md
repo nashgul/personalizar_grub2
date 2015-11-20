@@ -16,11 +16,11 @@ Miramos las resoluciones soportadas.
 
 ## Instalar paquete de tema
 
-Metemos la carpeta del tema en: /boot/grub/themes 
+Metemos la carpeta del tema en: __/boot/grub/themes__
 
 ## Configurar GRUB2 
 
-Editamos las siguientes líneas en /etc/default/grub:
+Editamos las siguientes líneas en __/etc/default/grub__:
 
 ~~~
 # Esta línea define la resolución del GRUB2.
